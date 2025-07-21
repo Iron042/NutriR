@@ -1,3 +1,5 @@
+My NutriR package helps to calculate and visualize daily nutrient intake from food logs, comparing actual intake with recommended daily values. We chose this functionality to create a practical tool for nutrition tracking and health awareness.
+
 NutriR Functions:
 
 calculate_daily_intake(log)
